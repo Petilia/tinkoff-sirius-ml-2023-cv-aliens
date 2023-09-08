@@ -113,7 +113,7 @@ https://colab.research.google.com/drive/1X4axiBLyMqIvkbNMnn9tsRpigY3qet1a?usp=sh
 
 
 # Изменение изображения при помощи диффузионной модели
-**Выбор фотографий**
+## Выбор фотографий
 
 Были выбраны следующие фотографии: ![Фото](./assets/rooms.jpg)
 
